@@ -1,0 +1,4 @@
+baseURL = "https://nattasak.github.io/"
+languageCode = "en-us"
+title = "nattnts"
+theme = "ananke"
