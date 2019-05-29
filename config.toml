@@ -2,3 +2,11 @@ baseURL = "https://nattasak.github.io/"
 languageCode = "th-th"
 title = "nattnts"
 theme = "hugo-theme-yinyang"
+
+[author]
+  name = "*"
+  homepage = "https://nattasak.github.io/"
+
+[[params.socials]]
+  name = "Github"
+  link = "https://github.com/Nattasak"
