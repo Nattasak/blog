@@ -1,4 +1,4 @@
 baseURL = "https://nattasak.github.io/"
-languageCode = "en-us"
+languageCode = "th-th"
 title = "nattnts"
-theme = "hugo-theme-air"
+theme = "hugo-theme-yinyang"
